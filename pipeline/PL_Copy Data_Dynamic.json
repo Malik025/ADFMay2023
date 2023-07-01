@@ -1,6 +1,7 @@
 {
 	"name": "PL_Copy Data_Dynamic",
 	"properties": {
+		"description": "this is copy into other fiel",
 		"activities": [
 			{
 				"name": "Copy File Dynamic",
