@@ -1,0 +1,9 @@
+{
+	"name": "ADFMalik",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e907a6f-378c-49d1-a059-6de98974a5bc",
+		"tenantId": "77b10b11-ab01-4023-9d7e-7c2fa01c6289"
+	}
+}
